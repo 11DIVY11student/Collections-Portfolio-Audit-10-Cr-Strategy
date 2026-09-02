@@ -1,7 +1,6 @@
 # Collections-Portfolio-Audit-10-Cr-Strategy
-Role: Lead Data Scientist / Analytics Strategy
 
-Tech Stack: Python (Pandas, Seaborn, StatModels), SQL (PostgreSQL), Power BI, Counterfactual Analysis (DiD)
+Tech Stack: Python (Pandas, Seaborn, StatModels), SQL (MySQL), Power BI, Counterfactual Analysis (DiD)
 
 This repository contains a full-stack data science audit of an operational collections portfolio. It demonstrates the complete lifecycle of dismantling flawed legacy reporting, exposing synthetic vendor data, and engineering a production-ready data pipeline to justify a ₹10 Cr budget reallocation to the executive team.
 
